@@ -25,7 +25,7 @@ Questions? Please join our [Slack channel](https://resources.rudderstack.com/joi
 
 # License
 
-RudderStack \*\* software name \*\* is released under the [MIT License][mit_license].
+RudderStack \*\* dbt-rudderstack \*\* is released under the [MIT License][mit_license].
 
 # Contribute
 
