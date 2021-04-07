@@ -1,0 +1,28 @@
+version: 2
+
+sources:
+    - name: autotrack
+      database: rudder_autotrack_data
+      schema: autotrack
+      tables:
+        - name: pages
+
+    - name: webapp
+      database: rudder_webapp_data
+      schema: rudderwebapp
+      tables:
+        - name: pages
+
+    - name: webflow
+      database: eric_db
+      schema: eric_data
+      tables:
+        - name: pages
+
+models:
+  - name: web_page_views
+    columns:
+      - name: page_view_id
+        tests:
+          - unique
+          - not_null
