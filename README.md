@@ -5,9 +5,9 @@
 
 # \*\* dbt-rudderstack \*\*
 
-\*\* Repo description \*\*
+\*\* This repository contains DBT code related to Attribution Use Case. We have tried to build a DBT model that can create "session" abstractions on top of web page views of a user on one or more RudderStack web properties. The session information from these DBT models can then be used in conjunction with transaction and referrer data for various attribution related analysis. \*\*
 |:------|
-This repository contains DBT code related to Attribution Use Case. We have tried to build a DBT model that can create "session" abstractions on top of web page views of a user on one or more RudderStack web properties. The session information from these DBT models can then be used in conjunction with transaction and referrer data for various attribution related analysis. 
+ 
 
 Questions? Please join our [Slack channel](https://resources.rudderstack.com/join-rudderstack-slack) or read about us on [Product Hunt](https://www.producthunt.com/posts/rudderstack).
 
