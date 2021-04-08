@@ -4,20 +4,20 @@
 <br/>
 
 # dbt-rudderstack-attribution
-This repository contains DBT code related to the Attribution use case. We have tried to build a DBT model that can create "session" abstractions on top of web page views of a user on one or more RudderStack web properties. The session information from these DBT models can then be used in conjunction with transaction and referrer data for various attribution related analysis. 
+This repository contains dbt code related to the Attribution use case. We have tried to build a dbt model that can create "session" abstractions on top of web page views of a user on one or more RudderStack web properties. The session information from these dbt models can then be used in conjunction with transaction and referrer data for various attribution related analysis. 
 |:------|
  
 
 Questions? Please join our [Slack channel](https://resources.rudderstack.com/join-rudderstack-slack) or read about us on [Product Hunt](https://www.producthunt.com/posts/rudderstack). 
 
 # Why Use dbt-rudderstack-attribution
-Any individual or organization using RudderStack to capture web page view data can use the DBT models available in this repository to create session abstractions of users' web browsing activities. 
+Any individual or organization using RudderStack to capture web page view data can use the dbt models available in this repository to create session abstractions of users' web browsing activities. 
 
 # Key Features
-DBT model code for creating session abstractions on top of web page view data captured using RudderStack 
+dbt model code for creating session abstractions on top of web page view data captured using RudderStack 
 
 # Get Started
-This repostiory can be imported directly into a DBT project 
+This repostiory can be imported directly into dbt project 
 
 # License
 RudderStack dbt-rudderstack-attribution is released under the [MIT License][mit_license].
