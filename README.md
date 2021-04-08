@@ -3,29 +3,29 @@
 <p align="center"><b>The warehouse-first customer data pipeline built for devs</b></p>
 <br/>
 
-# \*\* dbt-rudderstack \*\*
+# dbt-rudderstack-attribution
 
-\*\* This repository contains DBT code related to Attribution Use Case. We have tried to build a DBT model that can create "session" abstractions on top of web page views of a user on one or more RudderStack web properties. The session information from these DBT models can then be used in conjunction with transaction and referrer data for various attribution related analysis. \*\*
+This repository contains DBT code related to the Attribution use case. We have tried to build a DBT model that can create "session" abstractions on top of web page views of a user on one or more RudderStack web properties. The session information from these DBT models can then be used in conjunction with transaction and referrer data for various attribution related analysis. 
 |:------|
  
 
-Questions? Please join our [Slack channel](https://resources.rudderstack.com/join-rudderstack-slack) or read about us on [Product Hunt](https://www.producthunt.com/posts/rudderstack).
+Questions? Please join our [Slack channel](https://resources.rudderstack.com/join-rudderstack-slack) or read about us on [Product Hunt](https://www.producthunt.com/posts/rudderstack). 
 
-# Why Use \*\* dbt-rudderstack \*\*
+# Why Use dbt-rudderstack-attribution
 
-\*\* Any individual or organization using RudderStack to capture web page view data can use the DBT models available in this repository to create session abstractions of users' web browsing activities \*\*
+Any individual or organization using RudderStack to capture web page view data can use the DBT models available in this repository to create session abstractions of users' web browsing activities. 
 
 # Key Features
 
-\*\* DBT model code for creating session abstractions on top of web page view data captured using RudderStack \*\*
+DBT model code for creating session abstractions on top of web page view data captured using RudderStack 
 
 # Get Started
 
-\*\* This repostiory can be imported directly into a DBT project \*\*
+This repostiory can be imported directly into a DBT project 
 
 # License
 
-RudderStack \*\* dbt-rudderstack \*\* is released under the [MIT License][mit_license].
+RudderStack dbt-rudderstack-attribution is released under the [MIT License][mit_license].
 
 # Contribute
 
@@ -43,12 +43,10 @@ We would love to see you contribute to RudderStack. Get more information on how 
 - [HackerNews][hackernews]
 - [Product Hunt][producthunt]
 
-# \*\* Optional \*\* :clap:  Our Supporters
+:clap:  Our Supporters
 
-\*\* Update the repo names below. \*\*<br />
-
-[![Stargazers repo roster for @rudderlabs/rudder-server](https://reporoster.com/stars/rudderlabs/rudder-repo-template)](https://github.com/rudderlabs/rudder-repo-template/stargazers)
-[![Forkers repo roster for @rudderlabs/rudder-server](https://reporoster.com/forks/rudderlabs/rudder-repo-template)](https://github.com/rudderlabs/rudder-repo-template/network/members)
+[![Stargazers repo roster for @rudderlabs/dbt-rudderstack-attribution(https://reporoster.com/stars/rudderlabs/dbt-rudderstack-attribution)](https://github.com/rudderlabs/dbt-rudderstack-attribution/stargazers)
+[![Forkers repo roster for @rudderlabs/dbt-rudderstack-attribution](https://reporoster.com/forks/rudderlabs/dbt-rudderstack-attribution)](https://github.com/rudderlabs/dbt-rudderstack-attribution/network/members)
 
 <!----variables---->
 

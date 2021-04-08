@@ -42,7 +42,7 @@ It is recommended to typically run this model in its default configuration (incr
 
 {% docs web_sessions %}
 
-The purpose of this model is to expose a single web session, derived from web page views on any RudderStack web property. Sessions are the most common way that analysis of web visitor behavior is conducted, and although RudderStack doesn't natively output session data, this model uses standard logic to create sessions out of page view events.
+The purpose of this model is to expose a single web session, derived from web page views on any web property. Sessions are the most common way that analysis of web visitor behavior is conducted, and although RudderStack doesn't natively output session data, this model uses standard logic to create sessions out of page view events.
 
 A session is meant to represent a single instance of web activity where a user is actively browsing a website. In this case, we are demarcating sessions by 30 minute windows of inactivity: if there is 30 minutes of inactivity between two page views, the second page view begins a new session. Additionally, page views across different devices will always be tied to different sessions.
 
