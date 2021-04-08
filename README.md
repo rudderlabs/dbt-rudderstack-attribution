@@ -43,9 +43,10 @@ We would love to see you contribute to RudderStack. Get more information on how 
 - [HackerNews][hackernews]
 - [Product Hunt][producthunt]
 
-:clap:  Our Supporters
+# :clap:  Our Supporters
 
-[![Stargazers repo roster for @rudderlabs/dbt-rudderstack-attribution(https://reporoster.com/stars/rudderlabs/dbt-rudderstack-attribution)](https://github.com/rudderlabs/dbt-rudderstack-attribution/stargazers)
+[![Stargazers repo roster for @rudderlabs/dbt-rudderstack-attribution](https://reporoster.com/stars/rudderlabs/dbt-rudderstack-attribution)](https://github.com/rudderlabs/dbt-rudderstack-attribution/stargazers)
+
 [![Forkers repo roster for @rudderlabs/dbt-rudderstack-attribution](https://reporoster.com/forks/rudderlabs/dbt-rudderstack-attribution)](https://github.com/rudderlabs/dbt-rudderstack-attribution/network/members)
 
 <!----variables---->
