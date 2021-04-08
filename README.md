@@ -4,7 +4,6 @@
 <br/>
 
 # dbt-rudderstack-attribution
-
 This repository contains DBT code related to the Attribution use case. We have tried to build a DBT model that can create "session" abstractions on top of web page views of a user on one or more RudderStack web properties. The session information from these DBT models can then be used in conjunction with transaction and referrer data for various attribution related analysis. 
 |:------|
  
@@ -12,27 +11,21 @@ This repository contains DBT code related to the Attribution use case. We have t
 Questions? Please join our [Slack channel](https://resources.rudderstack.com/join-rudderstack-slack) or read about us on [Product Hunt](https://www.producthunt.com/posts/rudderstack). 
 
 # Why Use dbt-rudderstack-attribution
-
 Any individual or organization using RudderStack to capture web page view data can use the DBT models available in this repository to create session abstractions of users' web browsing activities. 
 
 # Key Features
-
 DBT model code for creating session abstractions on top of web page view data captured using RudderStack 
 
 # Get Started
-
 This repostiory can be imported directly into a DBT project 
 
 # License
-
 RudderStack dbt-rudderstack-attribution is released under the [MIT License][mit_license].
 
 # Contribute
-
 We would love to see you contribute to RudderStack. Get more information on how to contribute [here](CONTRIBUTING.md).
 
 # Follow Us
-
 - [RudderStack Blog][rudderstack-blog]
 - [Slack][slack]
 - [Twitter][twitter]
@@ -43,10 +36,9 @@ We would love to see you contribute to RudderStack. Get more information on how 
 - [HackerNews][hackernews]
 - [Product Hunt][producthunt]
 
+
 # :clap:  Our Supporters
-
 [![Stargazers repo roster for @rudderlabs/dbt-rudderstack-attribution](https://reporoster.com/stars/rudderlabs/dbt-rudderstack-attribution)](https://github.com/rudderlabs/dbt-rudderstack-attribution/stargazers)
-
 [![Forkers repo roster for @rudderlabs/dbt-rudderstack-attribution](https://reporoster.com/forks/rudderlabs/dbt-rudderstack-attribution)](https://github.com/rudderlabs/dbt-rudderstack-attribution/network/members)
 
 <!----variables---->
